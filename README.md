@@ -3,8 +3,8 @@ Minesweeper in Ti Basic
 # Installation
 1. Install [TI Connect CE](https://education.ti.com/download/en/ed-tech/CA9C74CAD02440A69FDC7189D7E1B6C2/C00F5FB54B4644699ADF6B3B1395FAFC/TIConnectCE-5.4.0.1181.exe "TI Connect CE") on Windows
 2. Open TI Connect and plug TI 84 Plus into computer via USB. Under connected calculators, your TI 84 Should be listed.
-3. Download the LIFE.8xp File
-4. Open LIFE.8xp on the Program Editor within TI Connect (Three stacked boxes on the left)
+3. Download the MINES.8xp File
+4. Open MINES.8xp on the Program Editor within TI Connect (Three stacked boxes on the left)
 5. Under the Actions menu, press "Send to Calculator"
 6. Ensure installation on calculator by pressing "PRGM". MINES should be listed 
 
