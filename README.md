@@ -12,4 +12,4 @@ Minesweeper in Ti Basic
 1. Open MINES in the PRGM menu on your Ti 84
 2. You'll be greeted with a difficulty prompt. This is how many mines (approximately) are spawned. I'd suggest starting around 10.
 3. Once the minefield is spawned, use the arrow keys to move the cursor. Use the 2nd key to clear a cell. Use the Alpha button to flag a mine. All mines must be flagged in order to win, and if you accidentally flag something that isn't a mine, well you're out of luck.
-4. If you die or win, you will be prompted for C. Press 1 and enter to play again, or 0 for don't play again.
+4. If you die or win, you will be prompted for C. Press 1 and enter to play again, or 0 if you're done.
